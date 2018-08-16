@@ -3,8 +3,8 @@
 
 ### Integrantes do grupo:
 
-* teste
-* Aluno 2 teste
-* Aluno 3
+* Jefferson Guerra de Santana
+* Matheus Ribeiro Ferraz 
+* Breno Vasconcelos de Carvalho
 * Aluno 4
 * Aluno 5
