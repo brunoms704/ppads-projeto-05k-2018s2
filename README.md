@@ -4,7 +4,7 @@
 ### Integrantes do grupo:
 
 * teste
-* Aluno 2
+* Aluno 2 teste
 * Aluno 3
 * Aluno 4
 * Aluno 5
