@@ -1,28 +1,20 @@
 # Documento de visão
 
-## Nome do projeto: ___________________________________________
+# Documento de visão
+
+## Nome do projeto: SGE - SISTEMA DE GESTÃO ESCOLAR 
 
 ## Principais funcionalidades (o que pessoas/empresas vão conseguir com este software?):
 
-* ______________________________________________________
-* ______________________________________________________
-* ______________________________________________________
+principal publico alvo serão escolas particulares / publicas, onde vai ser possível o aluno se logar e verificar sua notas, 
+alem disso o aluno vai poder saber se foi aprovado ou não na matéria,o sistemas vai ter um login para professor 
+e outro para os alunos. Professores poderam cadastrar as notas dos alunos.
 
 ## Como as pessoas/empresas vão usar este software?
 
-1. _______________________________________________________________________
-1. _______________________________________________________________________
-1. _______________________________________________________________________
-1. _______________________________________________________________________
-1. _______________________________________________________________________
-1. _______________________________________________________________________
-1. etc.
+O software poderá ser usuado através da web. 
 
 ## Quais linguagens/tecnologias serão utilizadas para implementar este software?
 
-* ______________________________________________________
-* ______________________________________________________
-* ______________________________________________________
-* ______________________________________________________
-* ______________________________________________________
-* ______________________________________________________
+Front-end: HTML, CSS , jAVASCRIPT 
+Back-end: C#,JAVA,noSQL 
