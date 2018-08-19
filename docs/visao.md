@@ -1,18 +1,18 @@
 # Documento de visão
 
-## Nome do projeto: ___________________________________________
+## Nome do projeto: GESAU___________________________________________
 
 ## Principais funcionalidades (o que pessoas/empresas vão conseguir com este software?):
 
-* ______________________________________________________
-* ______________________________________________________
-* ______________________________________________________
+* Consultar histórico de pacientes de clínicas públicas e privadas (vacinas, doenças que o paciente possui, histórico de cirurgias, alergias à medicações, altura, peso, idade, sexo, medicações que o paciente necessita tomar, etc.)______________________________________________________
+* Atualizar histórico dos pacientes (atualizar vacinas, cirurgias, medicações, etc.)______________________________________________________
+* Exportar o histórico do paciente para uma planilha Excel ou PDF, para trabalhar nos dados se assim desejar______________________________________________________
 
 ## Como as pessoas/empresas vão usar este software?
 
-1. _______________________________________________________________________
-1. _______________________________________________________________________
-1. _______________________________________________________________________
+1. Os usuários (médicos e clínicas) deverão entrar com seu login, senha e CRM caso seja médico (número que identifica se o profissional está apto ou não a exercer sua profissão). Após logar no site, é possível que os usuários visualizem o histórico de todos os pacientes do Brasil, filtrar por nome, CPF e RG._______________________________________________________________________
+1. Ao visualizar o histórico, os usuários poderão tirar informações importantes para atender seus pacientes, como o histórico de medicamentos que o paciente possui, histórico de cirurgias, alergias que o paciente possui a determinado medicamento, idade, altura, peso, etc._______________________________________________________________________
+1. Também é possível que os usuários exportem os históricos para uma planilha Excel ou PDF para trabalhar nos dados ou imprimi-los caso seja necessário_______________________________________________________________________
 1. _______________________________________________________________________
 1. _______________________________________________________________________
 1. _______________________________________________________________________
@@ -20,9 +20,9 @@
 
 ## Quais linguagens/tecnologias serão utilizadas para implementar este software?
 
-* ______________________________________________________
-* ______________________________________________________
-* ______________________________________________________
+* Java EE(Classes Java, páginas JSP, Servlet)______________________________________________________
+* Banco de dados (um SGBD para persistir os dados da aplicação)______________________________________________________
+* Bootstrap (Framework CSS)______________________________________________________
 * ______________________________________________________
 * ______________________________________________________
 * ______________________________________________________
