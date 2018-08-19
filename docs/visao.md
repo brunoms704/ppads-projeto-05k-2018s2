@@ -10,7 +10,7 @@
 
 ## Como as pessoas/empresas vão usar este software?
 
-1. A princípio as clínicas deverão coletar os dados de seus pacientes para cadastrá-los no sistema. Mas também será possível importar uma planilha Excel com um layout específico para que o sistema consuma a planilha e grave os dados dos pacientes a partir da mesma.
+1. A princípio as clínicas deverão coletar os dados de seus pacientes para cadastrá-los no sistema. Mas também será possível importar uma planilha Excel com um layout específico para que o sistema consuma a planilha e grave os dados dos pacientes a partir da mesma. Futuramente haverá também integração com outros sistemas para importar dados de pacientes e exportar os dados.
 1. Os usuários (médicos e clínicas) deverão entrar com seu login, senha e CRM caso seja médico (número que identifica se o profissional está apto ou não a exercer sua profissão). Após logar no site, é possível que os usuários visualizem o histórico de todos os pacientes do Brasil, filtrar por nome, CPF e RG._______________________________________________________________________
 1. Ao visualizar o histórico, os usuários poderão tirar informações importantes para atender seus pacientes, como o histórico de medicamentos que o paciente possui, histórico de cirurgias, alergias que o paciente possui a determinado medicamento, idade, altura, peso, etc._______________________________________________________________________
 1. Também é possível que os usuários exportem os históricos para uma planilha Excel ou PDF para trabalhar nos dados ou imprimi-los caso seja necessário_______________________________________________________________________
